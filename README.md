@@ -1,8 +1,8 @@
 ![Tasmota logo](/tools/logo/TASMOTA_FullLogo_Vector.svg)
 
-**This Fork is stable for ESP32 on Tasmota Version Tag v12.3.1!**
-<br>
-`git tag -a v12.3.1 -m "version 12.3.1 runs on esp32"`
+**This Fork is stable for ESP32 on Tasmota Version Tag v12.3.1!**<br>
+`git tag -a v12.3.1 -m "version 12.3.1 runs on esp32"` <br>
+`git  checkout v12.3.1`
 
 
 Alternative firmware for [ESP8266](https://en.wikipedia.org/wiki/ESP8266) and [ESP32](https://en.wikipedia.org/wiki/ESP32) based devices with **easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX**.
